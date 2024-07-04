@@ -4,6 +4,7 @@
         <servicesKeys>
             <keyDetails collectionKey="CCS:SF_51_BMK_REST_QueryAccounts" connectorServiceName="CCS:SF_51_BMK_REST_QueryAccounts"/>
             <keyDetails collectionKey="CCS:SF_53_BMK_REST_QueryAccounts" connectorServiceName="CCS:SF_53_BMK_REST_QueryAccounts"/>
+            <keyDetails collectionKey="CCS:SF_53_BMK_REST_QueryAccts_2" connectorServiceName="CCS:SF_53_BMK_REST_QueryAccts_2"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
