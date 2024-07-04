@@ -3480,7 +3480,7 @@
     <value name="interactionName">query</value>
     <value name="serviceName">SforceService</value>
     <value name="virtualServiceName">WmCloudStreams.SoapVS</value>
-    <value name="connectionName">SF_51_BMK:SF_51_BMK_BasicA</value>
+    <value name="connectionName">SF_51_BMK:SF_Basic_BMK_51_ConnB</value>
     <value name="connectionType">sagcloud</value>
     <value name="connectorID">com.softwareag.cloudstreams.salesforce_v51</value>
     <record name="customData" javaclass="com.wm.util.Values">
