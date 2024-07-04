@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:SF_51_BMK_REST_QueryAccounts" connectorServiceName="CCS:SF_51_BMK_REST_QueryAccounts"/>
+            <keyDetails collectionKey="CCS:SF_53_BMK_REST_QueryAccounts" connectorServiceName="CCS:SF_53_BMK_REST_QueryAccounts"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:SF_51_BMK_QueryAccts" connectorServiceName="CCS:SF_51_BMK_QueryAccts"/>
+            <keyDetails collectionKey="CCS:SF_53_BMK_QueryAccounts" connectorServiceName="CCS:SF_53_BMK_QueryAccounts"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
