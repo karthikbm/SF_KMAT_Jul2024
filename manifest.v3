@@ -9,7 +9,6 @@
   <null name="replication_services"/>
   <record javaclass="com.wm.util.Values" name="requires">
 	<value name="WmSalesforceProvider">*.*</value>
-	<value name="WmSalesforceRESTProvider">*.*</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
